@@ -34,7 +34,7 @@ Besides, you can also provide insights on general Software Engineering student m
 [Link](url)<br />
 **Mentee Registration Form**<br />
 [Link](url)<br />
-For more details, watch the video [ITS Mentor Mentee Oct'21](https://www.youtube.com/watch?v=ocKF1a-dSOU).
+For more details, watch the YouTube video [ITS Mentor Mentee Oct'21](https://youtu.be/vL2Ay2TG9u4).
 <br /><br />
 
 ### Briefing Mentor Mentee Program
