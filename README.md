@@ -25,13 +25,13 @@ Why Participate?
 `- Communicate interests, questions, and aspirations`
 `- Build connections in the faculty`
 
-![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkSnPZa91kTOCBhTyMWq6T5MoPeu9443lJyw&usqp=CAU)
+![Mentor-Mentee](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkSnPZa91kTOCBhTyMWq6T5MoPeu9443lJyw&usqp=CAU)
 ```
 
 ### To register
-Mentor Registration
+## Mentor Registration
 [Link](url) 
-Mentee Registration
+## Mentee Registration
 [Link](url)
 For more details, watch the video [ITS Mentor Mentee Oct'21](https://www.youtube.com/watch?v=ocKF1a-dSOU).
 
@@ -39,9 +39,9 @@ For more details, watch the video [ITS Mentor Mentee Oct'21](https://www.youtube
 ### Support or Contact
 
 Having inquiries?  
-Contact
-Chong Siow Yen
-Chairperson ITS Mentor Mentee Program
-[Whatsapp](https://wa.me/+60182017978) 
+## Contact
+## Chong Siow Yen
+## Chairperson ITS Mentor Mentee Program
+## [Whatsapp](https://wa.me/+60182017978) 
 
 and we’ll help you sort it out.
