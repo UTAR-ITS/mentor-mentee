@@ -40,7 +40,7 @@ For more details, watch the YouTube video [ITS Mentor Mentee Oct'21](https://you
 ### Promotion Mentor Mentee Program
 **Oct' 2021 DIECS Faculty Day [Optional]**<br />
 Date: 12th October 2021<br />
-Time: TBA<br />
+Time: 12:30pm-1:00pm<br />
 Venue: Microsoft Teams<br />
 Link: [DIECS Briefing Teams](https://teams.microsoft.com/l/team/19%3a64f76d4d8c7c466d876c8af48423965b%40thread.tacv2/conversations?groupId=509cea27-5ac4-42c3-bb2d-30e510498108&tenantId=4edf9354-0b3b-429a-bb8f-f21f957f1d1c)
 
