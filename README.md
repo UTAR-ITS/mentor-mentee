@@ -35,6 +35,8 @@ Besides, you can also provide insights on general Software Engineering student m
 **Mentee Registration Form**<br />
 [Mentee Link](https://forms.gle/59d8F5sh21JVWmu66)<br />
 For more details, watch the YouTube video [ITS Mentor Mentee Oct'21](https://youtu.be/rImu2yRWN7g).
+**Dateline**<br />
+1 November 2021 00:00am
 <br /><br />
 
 ### Promotion Mentor Mentee Program
@@ -43,6 +45,17 @@ Date: 12th October 2021<br />
 Time: 12:30pm-1:00pm<br />
 Venue: Microsoft Teams<br />
 Link: [DIECS Briefing Teams](https://teams.microsoft.com/l/team/19%3a64f76d4d8c7c466d876c8af48423965b%40thread.tacv2/conversations?groupId=509cea27-5ac4-42c3-bb2d-30e510498108&tenantId=4edf9354-0b3b-429a-bb8f-f21f957f1d1c)
+
+## Program Dates
+Mentor Mentee Application                     8 October 2021 -  1 November 2021<br />
+Acceptance Email/SMS                          1 November 2021<br />
+Mentee Orientation (Mentee Grouping)          4 November 2021<br />
+Mentor Orientation                            1-5 November 2021 (based on mentor's availability) <br />                            
+First Meeting                                 6 November 2021<br /> 
+(further sessions to be decided between mentor-mentee)
+Learning Objective Sheet                      6 November 2021<br /> 
+Sessions (weekly)                             6 November 2021 - 28 November 2021<br />
+Program closing (sharing experience between mentor-mentee) 4 December 2021<br />
 
 ## Support or Contact
 Having inquiries?<br />
