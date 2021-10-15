@@ -7,7 +7,6 @@ With the guidance of senior student / alumni as mentors, we hope that students c
 <br /><br />
 
 ### How it works?
-
 The program involves **both parties, mentor and mentee**. The mentor will be a senior student/ alumni, while mentee can be students from any year/trimester.
 **As a mentor**, you will be guiding on mentee on his/her preferred subject that he/she wishes to improve on. 
 Besides, you can also provide insights on general Software Engineering student must knows, such as course planning, extracurricular activities etc.
@@ -34,28 +33,32 @@ Besides, you can also provide insights on general Software Engineering student m
 [Mentor Link](https://forms.gle/HzQXgoZm8fjBPLKy8)<br />
 **Mentee Registration Form**<br />
 [Mentee Link](https://forms.gle/59d8F5sh21JVWmu66)<br />
-For more details, watch the YouTube video [ITS Mentor Mentee Oct'21](https://youtu.be/rImu2yRWN7g).
+For more details, watch the YouTube video [ITS Mentor Mentee Oct'21](https://youtu.be/rImu2yRWN7g)<br />
 **Dateline**<br />
 1 November 2021 00:00am
 <br /><br />
 
 ### Promotion Mentor Mentee Program
-**Oct' 2021 DIECS Faculty Day [Optional]**<br />
+**Oct' 2021 DIECS Faculty Day [Optional]✔✔**<br />
 Date: 12th October 2021<br />
 Time: 12:30pm-1:00pm<br />
 Venue: Microsoft Teams<br />
 Link: [DIECS Briefing Teams](https://teams.microsoft.com/l/team/19%3a64f76d4d8c7c466d876c8af48423965b%40thread.tacv2/conversations?groupId=509cea27-5ac4-42c3-bb2d-30e510498108&tenantId=4edf9354-0b3b-429a-bb8f-f21f957f1d1c)
+<br /><br />
 
 ## Program Dates
-Mentor Mentee Application                     8 October 2021 -  1 November 2021<br />
-Acceptance Email/SMS                          1 November 2021<br />
-Mentee Orientation (Mentee Grouping)          4 November 2021<br />
-Mentor Orientation                            1-5 November 2021 (based on mentor's availability) <br />                            
-First Meeting                                 6 November 2021<br /> 
-(further sessions to be decided between mentor-mentee)
-Learning Objective Sheet                      6 November 2021<br /> 
-Sessions (weekly)                             6 November 2021 - 28 November 2021<br />
-Program closing (sharing experience between mentor-mentee) 4 December 2021<br />
+<pre>
+▶Mentor Mentee Application                                   8 October 2021 -  1 November 2021<br /> 
+Acceptance Email/SMS                                        1 November 2021<br />
+Mentee Orientation (Mentee Grouping)                        4 November 2021<br />
+Mentor Orientation                                          [based on availability] 1-5 November 2021<br />                
+First Meeting                                               6 November 2021<br /> 
+(further sessions to be decided between mentor-mentee)      <br />
+Learning Objective Sheet                                    6 November 2021<br /> 
+Sessions (weekly)                                           6 November 2021 - 28 November 2021<br />
+Program closing (sharing experience between mentor-mentee)  4 December 2021<br />
+</pre>
+<br />
 
 ## Support or Contact
 Having inquiries?<br />
