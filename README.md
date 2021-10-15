@@ -48,15 +48,24 @@ Link: [DIECS Briefing Teams](https://teams.microsoft.com/l/team/19%3a64f76d4d8c7
 
 ## Program Dates
 <pre>
-▶Mentor Mentee Application                                   8 October 2021 -  1 November 2021<br /> 
-Acceptance Email/SMS                                        1 November 2021<br />
-Mentee Orientation (Mentee Grouping)                        4 November 2021<br />
-Mentor Orientation                                          [based on availability] 1-5 November 2021<br />                
-First Meeting                                               6 November 2021<br /> 
-(further sessions to be decided between mentor-mentee)      <br />
-Learning Objective Sheet                                    6 November 2021<br /> 
-Sessions (weekly)                                           6 November 2021 - 28 November 2021<br />
-Program closing (sharing experience between mentor-mentee)  4 December 2021<br />
+<span>
+▶ Mentor Mentee Application                                 8 October 2021 -  1 November 2021
+
+Acceptance Email/SMS                                        1 November 2021
+
+Mentee Orientation (Mentee Grouping)                        4 November 2021
+
+Mentor Orientation                                          [based on availability] 1-5 November 2021   
+
+First Meeting                                               6 November 2021
+(further sessions to be decided between mentor-mentee)      
+
+Learning Objective Sheet                                    6 November 2021
+
+Sessions (weekly)                                           6 November 2021 - 28 November 2021
+
+Program closing (sharing experience between mentor-mentee)  4 December 2021
+</span>
 </pre>
 <br />
 
