@@ -47,30 +47,23 @@ Link: [DIECS Briefing Teams](https://teams.microsoft.com/l/team/19%3a64f76d4d8c7
 <br /><br />
 
 ## Program Dates
-<pre>
-<span>
-▶ Mentor Mentee Application                                 8 October 2021 -  1 November 2021
+🟩 **Mentor Mentee Application**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;  8 October 2021 -  1 November 2021
 
-Acceptance Email/SMS                                        1 November 2021
+**Acceptance Email/SMS**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;    1 November 2021
 
-Mentee Orientation (Mentee Grouping)                        4 November 2021
+**Mentee Orientation** (Mentee Grouping)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;  4 November 2021
 
-Mentor Orientation                                          [based on availability] 1-5 November 2021   
+**Mentor Orientation**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;    [based on availability] 1-5 November 2021   
 
-First Meeting                                               6 November 2021
+**First Meeting**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;  6 November 2021<br />
 (further sessions to be decided between mentor-mentee)      
 
-Learning Objective Sheet                                    6 November 2021
+**Learning Objective Sheet**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; 6 November 2021
 
-Sessions (weekly)                                           6 November 2021 - 28 November 2021
+**Sessions (weekly)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   6 November 2021 - 28 November 2021
 
-Program closing (sharing experience between mentor-mentee)  4 December 2021
-</span>
-</pre>
-<div align="center">
-    <img src="pre.svg" width="400" height="400" alt="css-in-readme">
-</div>
-<br />
+**Program closing** (sharing experience between mentor-mentee)&emsp;&emsp; 4 December 2021
+<br /><br />
 
 ## Support or Contact
 Having inquiries?<br />
