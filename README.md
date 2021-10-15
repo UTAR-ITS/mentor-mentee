@@ -67,6 +67,9 @@ Sessions (weekly)                                           6 November 2021 - 28
 Program closing (sharing experience between mentor-mentee)  4 December 2021
 </span>
 </pre>
+<div align="center">
+    <img src="pre.svg" width="400" height="400" alt="css-in-readme">
+</div>
 <br />
 
 ## Support or Contact
