@@ -79,4 +79,4 @@ Whatsapp [Koh Jun Dong](https://wa.me/+60169312233) <br />
 and we’ll help you sort it out.
 <br /><br />
 
-This program is inspired by UBC, Vancouver Tri-Mentoring Program
+This program is inspired by UBC Tri-Mentoring Program
