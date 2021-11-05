@@ -1,4 +1,4 @@
-## Welcome students to ITS MENTOR-MENTEE PROGRAM
+## Welcome students to ITS Mentor-Mentee Program
 
 ### About
 **UTAR IT Society's mentor-mentee program** strives to improve students' academic performance and increase students' drive in pursuing Software Engineering course.
